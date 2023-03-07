@@ -11,7 +11,7 @@ if n==1 or n==2:
     result = 1
 else:
     a,b=1,1
-    i=3
+    i=3		#3번째 항 부터 찾기
     
     while i <= n:
         result = a+b
