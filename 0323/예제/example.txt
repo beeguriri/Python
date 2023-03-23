@@ -1,0 +1,4 @@
+Hello, world!
+This is an example file.
+We will use it to demonstrate file writing in Python.
+We can write multiple lines at once.
